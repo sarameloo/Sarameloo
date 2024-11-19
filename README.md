@@ -95,7 +95,7 @@ Me chamo Sara Melo, tenho 18 anos e sou natural do Ceará. Estou cursando o ensi
     title="Oracle Apex"
     width="30px" 
     style="padding-right: 10px; height: auto; width: 70px;" 
-    src="img/apex.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
 
 <br/>
