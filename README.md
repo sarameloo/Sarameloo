@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Sara Melo, tenho 18 anos e sou natural do Ceará. Estou cursando o ensino médio na Escola Profissional FGG, com o curso técnico em informática. Pretendo ingressar no ensino superior no próximo ano, na área de T.I. Sou apaixonada por tecnologia e adoro compartilhar conhecimento, ajudando outras pessoas a explorar esse universo incrível.
+Me chamo Sara Melo, tenho 18 anos e sou natural do Ceará. Estou cursando o ensino médio na Escola Profissional FGG, com o curso técnico em informática. Pretendo ingressar no ensino superior em 2025, na área de T.I. Sou apaixonada por tecnologia e adoro compartilhar conhecimento, ajudando outras pessoas a explorar esse universo incrível.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
