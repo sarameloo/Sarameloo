@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Sara Melo
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedora Front-End Junior`**
 
-Me chamo Sara Melo, tenho 18 anos e sou natural do Ceará. Estou cursando o ensino médio na Escola Profissional FGG, com o curso técnico em informática. Pretendo ingressar no ensino superior em 2025, na área de T.I. Sou apaixonada por tecnologia e adoro compartilhar conhecimento, ajudando outras pessoas a explorar esse universo incrível.
+Me chamo Sara Melo, tenho 18 anos e sou natural do Ceará. Estou cursando o ensino médio na Escola Profissional FGG, com o curso técnico em informática. Pretendo ingressar no ensino superior no próximo ano, na área de T.I. Sou apaixonada por tecnologia e adoro compartilhar conhecimento, ajudando outras pessoas a explorar esse universo incrível.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -51,11 +51,11 @@ Me chamo Sara Melo, tenho 18 anos e sou natural do Ceará. Estou cursando o ensi
 />
 <img 
     align="left" 
-    alt="Figma" 
-    title="Figma"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
@@ -75,28 +75,36 @@ Me chamo Sara Melo, tenho 18 anos e sou natural do Ceará. Estou cursando o ensi
 />
 <img 
     align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Photoshop" 
+    title="Photoshop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<!--<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>-->
-<!--<img 
-    align="left" 
-    alt="Oracle Apex" 
-    title="Oracle Apex"
-    width="30px" 
-    style="padding-right: 10px; height: auto; width: 60px; text-align: center;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-/>-->
 <br/>
 <br/>
 
