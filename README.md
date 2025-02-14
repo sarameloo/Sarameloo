@@ -61,7 +61,7 @@ Me chamo Sara Melo, tenho 18 anos e sou natural do Ceará. Cursei o ensino médi
     title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
